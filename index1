@@ -1,34 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Hosted Page</title>
-    <!-- Inline CSS -->
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f5f5f5;
-        }
-        h1 {
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hello from GitHub Pages!</h1>
-    <button onclick="showAlert()">Click Me</button>
+<!-- IMG TEST 1 
+<img src="https://i.ibb.co/rHG3ctk/670899f319126-fbutube-Whats-App-Image-2024-10-11-at-8-38-30-AM-2.jpg" />
+<img src="https://i.ibb.co/0CGKtSf/67089ab59eb81-fbutube-Whats-App-Image-2024-10-11-at-8-38-28-AM.jpg" />
+<img src="https://i.ibb.co/DDjXDF2/67089a6d1bafd-fbutube-Whats-App-Image-2024-10-11-at-8-38-29-AM-1.jpg" />
+<img src="https://i.ibb.co/6X9Rs6H/67089b0adc0c7-fbutube-Whats-App-Image-2024-10-11-at-8-38-26-AM.jpg" />
+<img src="https://i.ibb.co/FsxMV7h/67089a7bb27f3-fbutube-Whats-App-Image-2024-10-11-at-8-38-29-AM.jpg" />
+<img src="https://i.ibb.co/vqxHVCs/67089a8fe63b8-fbutube-Whats-App-Image-2024-10-11-at-8-38-28-AM-2.jpg" />
+<img src="https://i.ibb.co/G5qCz8c/67089a9fdf6cf-fbutube-Whats-App-Image-2024-10-11-at-8-38-28-AM-1.jpg" />
+<img src="https://i.ibb.co/0CbHQXy/67089a353be30-fbutube-Whats-App-Image-2024-10-11-at-8-38-30-AM.jpg" />
+<img src="https://i.ibb.co/rcZL5vs/67089a4712f47-fbutube-Whats-App-Image-2024-10-11-at-8-38-29-AM-2-1.jpg" />
+<img src="https://i.ibb.co/BBNq8CT/67089acb61fdc-fbutube-Whats-App-Image-2024-10-11-at-8-38-27-AM-1.jpg" />
+<img src="https://i.ibb.co/sRqCG6t/67089aece7233-fbutube-Whats-App-Image-2024-10-11-at-8-38-27-AM.jpg" />
+<img src="https://i.ibb.co/pzYR5Jh/67089afcab0a1-fbutube-Whats-App-Image-2024-10-11-at-8-38-26-AM-1.jpg" />
+<img src="https://i.ibb.co/YLjLskT/67089a109386d-fbutube-Whats-App-Image-2024-10-11-at-8-38-30-AM-1.jpg" />
 
-    <!-- Inline JavaScript -->
-    <script>
-        function showAlert() {
-            alert("Hello, this is JavaScript in action!");
-        }
-    </script>
-</body>
-</html>
+  -->
+  <!-- IMG TEST 2 -->
+  <img src="https://i.makeagif.com/media/3-25-2023/Wv7c6X.gif" />
+  <img src="https://i.ibb.co/0My9d0v/Screenshot-2024-01-13-at-9-47-08-AM.png" />
+  <img src="https://i.ibb.co/BGDhSwD/Screenshot-2024-01-13-at-9-35-35-AM.png" />
+  <img src="https://i.ibb.co/NpCsPmn/Screenshot-2024-01-13-at-9-41-41-AM-1.png" />
+  <img src="https://i.ibb.co/C7gGKr5/Screenshot-2024-01-13-at-9-37-57-AM-1024x829.png" />
+  
+  
+  <!-- IMG TEST 3 
+  <img src="https://i.ibb.co/zXS8Cxg/IMG-20241025-222842.jpg" />
+  <img src="https://i.ibb.co/bH72bHc/IMG-20241025-222802.jpg" />
+  <img src="https://i.ibb.co/GQhY567/IMG-20241025-222717.jpg" />      -->
+  
+  <!-- IMG TEST 4 -->
+  <img src="https://tn.hot-sex-tube.com/3e/52/3e522318.jpg" />
+  <img src="https://i.ibb.co/P4R85mT/IMG-20241025-215636.jpg" />
+  <img src="https://i.ibb.co/v4DSFCN/IMG-20241025-215514.jpg" />
+  <img src="https://i.ibb.co/Zzm18dq/IMG-20241025-221749.jpg" />
+  <img src="https://i.ibb.co/Hd2Thfm/IMG-20241025-221830.jpg" />
+  <img src="https://i.ibb.co/bdCD0jZ/IMG-20241025-221855.jpg" />
+  <img src="https://i.ibb.co/vdRYgKk/IMG-20241025-221913.jpg" />
+  <img src="https://i.ibb.co/r0Pfyts/IMG-20241025-221939.jpg" />
